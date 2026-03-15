@@ -21,7 +21,7 @@ No frameworks. No build tools. Just a JDK and one command.
 > Requires **JDK 17+** — [Download from Adoptium](https://adoptium.net)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/java-streams-masterclass.git
+git clone https://github.com/letmedevelopit/java-streams-masterclass.git
 cd java-streams-masterclass
 ./run.sh
 ```
