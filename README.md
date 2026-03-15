@@ -200,7 +200,7 @@ Contributions are very welcome! Here are some ideas:
 # 1. Fork the repo on GitHub
 
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/java-streams-masterclass.git
+git clone https://github.com/letmedevelopit/java-streams-masterclass.git
 
 # 3. Create a feature branch
 git checkout -b feat/add-teeing-collector-example
