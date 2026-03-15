@@ -1,0 +1,19 @@
+# Compiled output
+out/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
